@@ -56,13 +56,13 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/YuSetiawan/Rekrut_server
+git clone https://github.com/alridho12/peeworld_fe
 ```
 
 - Go To Folder Repo
 
 ```
-cd Rekrut_server
+cd peeworld_fe
 ```
 
 - Install Module
