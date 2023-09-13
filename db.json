@@ -1,0 +1,89 @@
+{
+  "user_pekerja": [
+    {
+      "id": 1,
+      "nama": "gokil",
+      "email": "gokil@gmail.com",
+      "handphone": "089621211212",
+      "password": "123"
+    },
+    {
+      "nama": "sambo",
+      "email": "sambo@gmail.com",
+      "password": "123",
+      "handphone": "081212121212",
+      "id": 2
+    },
+    {
+      "nama": "ferdi",
+      "email": "ferdi@gmail.com",
+      "password": "123",
+      "handphone": "081212121212",
+      "id": 3
+    },
+    {
+      "nama": "ruli",
+      "email": "ruli@gmail.com",
+      "password": "123",
+      "handphone": "081212121212",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "email": "ruli@gmail.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "email": "ferdi@gmail.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "email": "ferdi@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "email": "mukmin9@gmail.com",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "email": "ferdi@gmail.com",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "email": "ferdi@gmail.com",
+      "password": "123",
+      "id": 12
+    },
+    {
+      "email": "ruli@gmail.com",
+      "password": "123",
+      "id": 13
+    },
+    {
+      "nama": "sambor",
+      "email": "sambor@gmail.com",
+      "password": "123",
+      "handphone": "081212121212",
+      "id": 14
+    },
+    {
+      "email": "sambor@gmail.com",
+      "password": "123",
+      "id": 15
+    }
+  ]
+}
