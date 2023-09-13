@@ -6,7 +6,7 @@ import Image from 'next/image'
 import NavbarAuth from '../../components/navbar/NavbarAuth'
 import axios from 'axios'
 import Link from 'next/link'
-import Pagination from '../../components/pagination/paginition'
+import Pagination from '../../components/pagination/Paginition'
 import Head from 'next/head'
 // import $ from 'jquery';
 // import { Pagination } from 'react-bootstrap'
