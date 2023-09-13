@@ -152,7 +152,7 @@ const Hire = () => {
                                         color:'white'
                                     }}
                                 >
-                                    {recruiter.nama}
+                                    Hire
                                 </button>
                                 <input type="hidden" name="worker_id" value={(user.worker_id)} onChange={handleChange} />
                                 <input type="hidden" name="worker_name" value={(user.worker_name)} onChange={handleChange} />
