@@ -1,111 +1,141 @@
-<br />
 <p align="center">
-  <div align="center">
-    <img height="150" src="https://cdn.discordapp.com/attachments/1118733891738554480/1146038619325349898/logo-removebg-preview.png" alt="blanja" border="0"/>
-  </div>
-  <h3 align="center">Blanja</h3>
+<div align="center">
+  <img height="150" src="https://cdn.discordapp.com/attachments/1118733891738554480/1147830303457550416/Screenshot_120-removebg-preview.png" alt="Hiring App-logo" border="0"/>
+</div>
+  <h3 align="center">Rekrut App</h3>
   <p align="center">
-    <a href="https://github.com/alridho12/backend_blanja"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alridho12/Rekrut_client"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://blanja-fe-khaki.vercel.app/">View Demo</a>
+  <a href="https://peeworld-fe-4b1w.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/alridho12/backend_blanja/">Api Demo</a>
+    <a href="https://peeworld-be.vercel.app/">Api Demo</a>
   </p>
 </p>
+
+<!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
   - [Built With](#built-with)
-- [Installation](#installation)
-  - [Documentation](#documentation)
-  - [Related Project](#related-project)
-- [Contributors](#contributors)
-  - [Meet The Team Members](#meet-the-team-members)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Setup .env](#setup-env)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [Related Project](#related-project)
+- [Contact](#contact)
 
-# About The Project
+<!-- ABOUT THE PROJECT -->
 
-Blanja is an E-commerce website project that aims to provide an easy and convenient online shopping experience for users in Indonesia. The site offers a wide range of products, including fashion, beauty, electronics, and food and beverages.
+## About The Project
 
-To use Blanja's services, users only need to create an account and enter their payment details. After that, users can browse products, add them to their shopping cart, and choose their preferred payment method.
+Rekrut is a jobseeker website project that aims to assist Software Developers in finding jobs that match their skills.
 
-With all the features and security provided, Blanja is expected to provide a safe, easy, and convenient online shopping experience for users across Indonesia.
+On this website, job seekers can create a profile, upload their experience and portfolio. Peworld also offers a feature to connect job seekers with companies that are looking for candidates with the required skills.
 
-## Built With
+One of the outstanding features of Peworld is the ability to identify the skills and interests of job seekers based on their abilities. With this information, recruiters can directly connect through the hire feature.
 
-These are the libraries and service used for building this backend API
+<!-- GETTING STARTED -->
 
-- [Node.js](https://nodejs.org)
-- [Express](https://expressjs.com)
-- [PostgreSQL](https://www.postgresql.org)
-- [Json Web Token](https://jwt.io)
-- [Multer](https://github.com/expressjs/multer)
+## Getting Started
 
-# Installation
+### Prerequisites
 
-1. Clone this repository
+This is an example of how to list things you need to use the software and how to install them.
 
-```sh
-git clone https://github.com/alridho12/backend_blanja
+- [NodeJs](https://nodejs.org/en/download/)
+- [Bootstrap Css](https://getbootstrap.com/)
+- [NextJS](https://nextjs.org/)
+- [Redux](https://redux.js.org/)
+
+### Installation
+
+- Clone This Front End Repo
+
+```
+git clone https://github.com/YuSetiawan/Rekrut_server
 ```
 
-2. Change directory to markisak-be
+- Go To Folder Repo
 
-```sh
-cd backend_blanja
+```
+cd Rekrut_server
 ```
 
-3. Install all of the required modules
+- Install Module
 
-```sh
+```
 npm install
 ```
 
-4. Create PostgreSQL database, query are provided in [query.sql](./query.sql)
+- Running Program
 
-5. Create and configure `.env` file in the root directory, example credentials are provided in [.env.example](./.env.example)
-
-```txt
-- Please note that this server requires Google Drive API credentials and Gmail service account
-- Otherwise API endpoint with image upload and account register won't work properly
 ```
-
-6. Run this command to run the server
-
-```sh
-npm run server
-```
-
-- Or run this command for running in development environment
-
-```sh
 npm run dev
 ```
 
-- Run this command for debugging and finding errors
+### Setup .env
 
-```sh
-npm run lint
+Create .env.local file in your root project folder.
+
+```
+NEXT_PUBLIC_API = [BACKEND_URL]
 ```
 
-## Documentation
+<!-- ROADMAP -->
 
-Documentation files are provided in the [docs](./docs) folder
+## Screenshots
 
-- [Postman API colletion]()
-- [PostgreSQL database query](./query.sql)
+<table>
+ <tr>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151543139685908601/regis-hire.png"  border="0" border="0" alt="1" /></td>
+    <td> <img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151543766910500965/login-hire.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
+  </tr>
+   <tr>
+    <td>Register</td>
+    <td>Login</td>
+  </tr>
+  
+  <tr>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151542483336048640/landing-hire.png"  border="0" border="0" alt="1" /></td>
+    <td> <img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151544527534964817/home-hire.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
+  </tr>
+   <tr>
+    <td>Landing Page</td>
+    <td>Home</td>
+  </tr>
 
-API endpoint list are also available as published postman documentation
+   <tr>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151545390810808390/profile-wr-hire.png"  border="0" border="0" alt="1" /></td>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151550352978628688/hire.png"  border="0" border="0" alt="2" /></td>
+  </tr>
+   <tr>
+    <td>Worker Profile</td>
+    <td>Hire Worker</td>
+  </tr>
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/27920957/2s9YBxYvLm)
+</table>
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## Related Project
 
-:rocket: [`Backend Blanja`](https://github.com/alridho12/backend_blanja)
+:rocket: [`Backend Hiring App`](https://github.com/alridho12/peeworld_be)
 
-:rocket: [`Frontend Blanja`](https://github.com/izaazwaskito/Blanja-FE)
+:rocket: [`Frontend Hiring App`](https://github.com/alridho12/peeworld_fe)
 
-:rocket: [`Demo Blanja`](https://blanja-fe-khaki.vercel.app/)
+:rocket: [`Demo Hiring App`](https://peeworld-fe-4b1w.vercel.app/)
 
-Project link : [https://github.com/alridho12/backend_blanja](https://github.com/alridho12/backend_blanja))
+Project link : [Rekrut Client](https://github.com/alridho12/peeworld_fe)
