@@ -56,13 +56,21 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
+<<<<<<< HEAD
 git clone https://github.com/YuSetiawan/Rekrut_server
+=======
+git clone https://github.com/alridho12/peeworld_fe
+>>>>>>> 047994f83e9fc6c2db51a05ac6681d4779cbcde1
 ```
 
 - Go To Folder Repo
 
 ```
+<<<<<<< HEAD
 cd Rekrut_server
+=======
+cd peeworld_fe
+>>>>>>> 047994f83e9fc6c2db51a05ac6681d4779cbcde1
 ```
 
 - Install Module
@@ -138,4 +146,8 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Demo Hiring App`](https://peeworld-fe-4b1w.vercel.app/)
 
+<<<<<<< HEAD
 Project link : [Rekrut Client](https://github.com/alridho12/peeworld_fe)
+=======
+Project link : [Rekrut Client](https://github.com/alridho12/peeworld_fe)
+>>>>>>> 047994f83e9fc6c2db51a05ac6681d4779cbcde1
