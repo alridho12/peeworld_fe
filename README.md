@@ -138,4 +138,4 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Demo Hiring App`](https://peeworld-fe-4b1w.vercel.app/)
 
-Project link : [Rekrut Client](https://github.com/alridho12/peeworld_fe)
+Project link : [peworldfe](https://github.com/alridho12/peeworld_fe)
