@@ -2,9 +2,9 @@
 <div align="center">
   <img height="150" src="https://cdn.discordapp.com/attachments/1118733891738554480/1147830303457550416/Screenshot_120-removebg-preview.png" alt="Hiring App-logo" border="0"/>
 </div>
-  <h3 align="center">Rekrut App</h3>
+  <h3 align="center">peworld App</h3>
   <p align="center">
-    <a href="https://github.com/alridho12/Rekrut_client"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alridho12/peeworld_fe"><strong>Explore the docs »</strong></a>
     <br />
   <a href="https://peeworld-fe-4b1w.vercel.app/">View Demo</a>
     ·
@@ -56,21 +56,13 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-<<<<<<< HEAD
-git clone https://github.com/YuSetiawan/Rekrut_server
-=======
 git clone https://github.com/alridho12/peeworld_fe
->>>>>>> 047994f83e9fc6c2db51a05ac6681d4779cbcde1
 ```
 
 - Go To Folder Repo
 
 ```
-<<<<<<< HEAD
-cd Rekrut_server
-=======
 cd peeworld_fe
->>>>>>> 047994f83e9fc6c2db51a05ac6681d4779cbcde1
 ```
 
 - Install Module
