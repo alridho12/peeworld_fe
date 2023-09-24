@@ -100,7 +100,7 @@ NEXT_PUBLIC_API = [BACKEND_URL]
   </tr>
   
   <tr>
-    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151542483336048640/landing-hire.png"  border="0" border="0" alt="1" /></td>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155597800407580756/peeworld-fe.png"  border="0" border="0" alt="1" /></td>
     <td> <img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151544527534964817/home-hire.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
   </tr>
    <tr>
@@ -109,7 +109,7 @@ NEXT_PUBLIC_API = [BACKEND_URL]
   </tr>
 
    <tr>
-    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155597800407580756/peeworld-fe.png"  border="0" border="0" alt="1" /></td>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155598818730061874/peeworld-fe-4b1w-vercel-app-profile-.png"  border="0" border="0" alt="1" /></td>
     <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151550352978628688/hire.png"  border="0" border="0" alt="2" /></td>
   </tr>
    <tr>
