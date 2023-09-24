@@ -31,7 +31,7 @@ const CardBio = (props) => {
                     console.log(err);
                 })
         }
-    }, [router.isReady,router.query.id,props])
+    }, [router.isReady,router.query.id])
 
     return (
         <div>
