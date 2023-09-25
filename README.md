@@ -117,6 +117,15 @@ NEXT_PUBLIC_API = [BACKEND_URL]
     <td>Hire Worker</td>
   </tr>
 
+  <tr>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155689030638379059/peeworld-fe-4b1w-vercel-app-profilerecruiter-cdfd67e9-8757-4486-af25-f81bc172d197.png"  border="0" border="0" alt="1" /></td>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155689679895679016/peeworld-fe-4b1w-vercel-app-editprofilerecruiter-cdfd67e9-8757-4486-af25-f81bc172d197.png"  border="0" border="0" alt="2" /></td>
+  </tr>
+   <tr>
+    <td>Recruiter Profile</td>
+    <td>Edit Profile Recruiter</td>
+  </tr>
+
 </table>
 <!-- CONTRIBUTING -->
 
