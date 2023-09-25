@@ -2,9 +2,9 @@
 <div align="center">
   <img height="150" src="https://cdn.discordapp.com/attachments/1118733891738554480/1147830303457550416/Screenshot_120-removebg-preview.png" alt="Hiring App-logo" border="0"/>
 </div>
-  <h3 align="center">Rekrut App</h3>
+  <h3 align="center">peworld App</h3>
   <p align="center">
-    <a href="https://github.com/alridho12/Rekrut_client"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alridho12/peeworld_fe"><strong>Explore the docs »</strong></a>
     <br />
   <a href="https://peeworld-fe-4b1w.vercel.app/">View Demo</a>
     ·
@@ -56,21 +56,13 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-<<<<<<< HEAD
-git clone https://github.com/YuSetiawan/Rekrut_server
-=======
 git clone https://github.com/alridho12/peeworld_fe
->>>>>>> 047994f83e9fc6c2db51a05ac6681d4779cbcde1
 ```
 
 - Go To Folder Repo
 
 ```
-<<<<<<< HEAD
-cd Rekrut_server
-=======
 cd peeworld_fe
->>>>>>> 047994f83e9fc6c2db51a05ac6681d4779cbcde1
 ```
 
 - Install Module
@@ -108,7 +100,7 @@ NEXT_PUBLIC_API = [BACKEND_URL]
   </tr>
   
   <tr>
-    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151542483336048640/landing-hire.png"  border="0" border="0" alt="1" /></td>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155597800407580756/peeworld-fe.png"  border="0" border="0" alt="1" /></td>
     <td> <img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151544527534964817/home-hire.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
   </tr>
    <tr>
@@ -117,12 +109,21 @@ NEXT_PUBLIC_API = [BACKEND_URL]
   </tr>
 
    <tr>
-    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151545390810808390/profile-wr-hire.png"  border="0" border="0" alt="1" /></td>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155598818730061874/peeworld-fe-4b1w-vercel-app-profile-.png"  border="0" border="0" alt="1" /></td>
     <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151550352978628688/hire.png"  border="0" border="0" alt="2" /></td>
   </tr>
    <tr>
     <td>Worker Profile</td>
     <td>Hire Worker</td>
+  </tr>
+
+  <tr>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155689030638379059/peeworld-fe-4b1w-vercel-app-profilerecruiter-cdfd67e9-8757-4486-af25-f81bc172d197.png"  border="0" border="0" alt="1" /></td>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155689679895679016/peeworld-fe-4b1w-vercel-app-editprofilerecruiter-cdfd67e9-8757-4486-af25-f81bc172d197.png"  border="0" border="0" alt="2" /></td>
+  </tr>
+   <tr>
+    <td>Recruiter Profile</td>
+    <td>Edit Profile Recruiter</td>
   </tr>
 
 </table>
@@ -146,8 +147,4 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Demo Hiring App`](https://peeworld-fe-4b1w.vercel.app/)
 
-<<<<<<< HEAD
-Project link : [Rekrut Client](https://github.com/alridho12/peeworld_fe)
-=======
-Project link : [Rekrut Client](https://github.com/alridho12/peeworld_fe)
->>>>>>> 047994f83e9fc6c2db51a05ac6681d4779cbcde1
+Project link : [peworldfe](https://github.com/alridho12/peeworld_fe)
