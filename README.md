@@ -110,11 +110,11 @@ NEXT_PUBLIC_API = [BACKEND_URL]
 
    <tr>
     <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1155598818730061874/peeworld-fe-4b1w-vercel-app-profile-.png"  border="0" border="0" alt="1" /></td>
-    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151550352978628688/hire.png"  border="0" border="0" alt="2" /></td>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1133070686869524531/1156091438589808640/peeworld-fe-4b1w-vercel-app-editprofileworker-407b1a59-6b27-422f-bb6d-9bd4d00bb533.png?ex=6513b58e&is=6512640e&hm=c9eaedda4abef05db90b0a033192cb575b71ef4baca4521f5cb6fa02b5d2d522&"  border="0" border="0" alt="2" /></td>
   </tr>
    <tr>
     <td>Worker Profile</td>
-    <td>Hire Worker</td>
+    <td>Edit Profile Worker</td>
   </tr>
 
   <tr>
@@ -125,6 +125,14 @@ NEXT_PUBLIC_API = [BACKEND_URL]
     <td>Recruiter Profile</td>
     <td>Edit Profile Recruiter</td>
   </tr>
+
+   <tr>
+    <td><img width="350px" src="https://cdn.discordapp.com/attachments/1103167854657929344/1151550352978628688/hire.png"  border="0" border="0" alt="2" /></td>
+  </tr>
+   <tr>
+    <td>Hire Worker</td>
+  </tr>
+
 
 </table>
 <!-- CONTRIBUTING -->
