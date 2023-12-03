@@ -32,7 +32,7 @@
 
 ## About The Project
 
-Rekrut is a jobseeker website project that aims to assist Software Developers in finding jobs that match their skills.
+Peworld is a jobseeker website project that aims to assist Software Developers in finding jobs that match their skills.
 
 On this website, job seekers can create a profile, upload their experience and portfolio. Peworld also offers a feature to connect job seekers with companies that are looking for candidates with the required skills.
 
