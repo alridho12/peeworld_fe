@@ -96,18 +96,16 @@ const Register = () => {
 
     return (
         <div>
-            <main>
+            <main className='container-fluid'>
                 <div
-                    className="row"
-                    style={{ marginTop: "3%", marginLeft: "4.5%", marginRight: "4.5%" }}
+                    className="row justify-content-center align-items-center"
+                    style={{ height: "100vh" }}
                 >
                     <div
-                        className="col-5 m-0 p-0"
+                        className="col-md-5 m-0 p-0 py-5"
                         id="main-container"
                         style={{
-                            backgroundColor: "#5E50A170",
-                            borderRadius: 10,
-                            boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)"
+                            height: "100vh",
                         }}
                     >
                         <div id="logo-container">
@@ -119,22 +117,23 @@ const Register = () => {
                                 <br /> di berbagai bidang <br /> keahlian.
                             </p>
                         </div>
-                        <Image
-                            id="img1"
-                            className=""
-                            src={main}
-                            alt="main"
-                            style={{
-                                position: 'relative',
-                                zIndex: -2,
-                                width: "100%",
-                                height: 862,
-                                borderRadius: 10
-                            }}
-                        />
+                        <div id="img1">
+                            <Image
+                                className=""
+                                src={main}
+                                alt="main"
+                                style={{
+                                    position: 'relative',
+                                    zIndex: -2,
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: 10
+                                }}
+                            />
+                        </div>
                     </div>
                     <div
-                        className="col-7 m-0 d-flex flex-column justify-content-center align-items-center"
+                        className="col-md-6 m-0 d-flex flex-column justify-content-center align-items-center"
                         id="sub-container"
                     >
                         <ul
@@ -401,6 +400,23 @@ const Register = () => {
             <style jsx>
                 {`
 
+            #img1 {
+                position: relative;
+                height: 100%;
+            }
+
+            #img1::after {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: #5E50A170;
+                z-index: -1;
+                border-radius: 10px;
+            }
+
             #logo-container {
                 position: absolute;
                 margin-top: 25px;
@@ -409,8 +425,9 @@ const Register = () => {
 
             #text-container {
                 position: absolute;
-                margin-top: 37%;
-                margin-left: 19.5%;
+                top: 50%;
+                left: 10%;
+                transform: translate(0%, -50%);
             }
 
             #lbe,
@@ -460,10 +477,10 @@ const Register = () => {
             }
 
             #pills-tab {
-            position: absolute;
-            top: 546px;
-            left: -570px;
-            }
+                position: absolute;
+                bottom: 68px;
+                transform: translateX(-150%);
+              }
 
             .nav-pills .nav-link{
             color: #e0e0e0;
@@ -475,6 +492,14 @@ const Register = () => {
             .nav-pills .nav-link.active {
              background-color: #e0e0e0;
             color: #5E50A170;
+            }
+
+            @media only screen and (min-width: 1281px) {
+                #pills-tab {
+                    position: absolute;
+                    bottom: 68px;
+                    transform: translateX(-230%);
+                  }
             }
 
             @media only screen and (max-width: 600px) {
